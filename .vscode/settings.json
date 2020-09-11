@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\Mark\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "python.linting.pylintArgs" : ["--generate-members"]
+}
