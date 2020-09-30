@@ -5,5 +5,12 @@
         "configurations": [],
         "compounds": []
     },
-    "python.linting.pylintArgs" : ["--generate-members"]
+    "python.linting.pylintArgs": [
+        "--generate-members"
+    ],
+    "python.autoComplete.extraPaths": [
+    
+    ],
+    // "python.jediEnabled": true,
+    // "python.languageServer": "Jedi"
 }
